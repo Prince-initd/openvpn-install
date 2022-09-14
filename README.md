@@ -16,7 +16,7 @@ You can also check out [wireguard-install](https://github.com/angristan/wireguar
 First, get the script and make it executable:
 
 ```bash
-curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
+curl -O https://raw.githubusercontent.com/Prince-initd/openvpn-install/master/openvpn-install.sh
 chmod +x openvpn-install.sh
 ```
 
@@ -343,6 +343,6 @@ You can [say thanks](https://saythanks.io/to/angristan) if you want!
 
 ## Credits & Licence
 
-Many thanks to the [contributors](https://github.com/Angristan/OpenVPN-install/graphs/contributors) and Nyr's original work.
+Many thanks to the [contributors](https://github.com/Prince-initd/OpenVPN-install/graphs/contributors) and Nyr's original work.
 
-This project is under the [MIT Licence](https://raw.githubusercontent.com/Angristan/openvpn-install/master/LICENSE)
+This project is under the [MIT Licence](https://raw.githubusercontent.com/Prince-initd/openvpn-install/master/LICENSE)
